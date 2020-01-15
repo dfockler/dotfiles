@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": null,
+    "search.location": "panel",
+    "workbench.activityBar.visible": false,
+    "editor.fontSize": 18,
+    "atomKeymap.promptV3Features": true,
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.fontFamily": "mononoki, Monaco, 'Courier New', monospace",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block"
+}
